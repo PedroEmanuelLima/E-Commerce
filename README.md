@@ -26,6 +26,12 @@ Desenvolvido a partir da livecoding com o especialista [Daniel Hatanaka]([Daniel
 - #### Checkout
 
   - **Responsável por receber a requisição de pagamento, armazenar e informar a parte que irá processar o pagamento.**
+  
+- #### Payment
+
+  - **Irá receber os dados de pagamento, processar e retornar uma mensagem independente do resultado do processamento.**
+
+    
 
 Repositórios originais desenvolvido durante a livecoding: 
 
